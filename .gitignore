@@ -100,5 +100,5 @@ logs/
 Thumbs.db
 
 # Project outputs
-data/output/
+#data/output/
 
